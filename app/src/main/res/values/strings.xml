@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MVP example</string>
+    <string name="action_settings">Settings</string>
+    <string name="image">Image</string>
+    <string name="ContentDescription">Image</string>
+    <string name="title">Title</string>
+    <string name="subtitle">Subtitle</string>
+</resources>
